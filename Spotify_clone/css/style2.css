@@ -33,3 +33,10 @@ nav ul li {
     font-weight: bolder;
     font-size: 1.3rem;
 }
+.container{
+    text-align: centre;
+    padding: 8px;
+    margin: 10px;
+    display: flex;
+    
+}
